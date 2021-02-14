@@ -1,0 +1,71 @@
+body{
+  background-color: yellow;
+}
+.Top{
+  text-align: center;
+  margin: 50px 0;
+}
+a{
+  font-family: 'Open Sans', sans-serif;
+  text-decoration: none;
+  color: #9b5151;
+}
+
+.Books{
+  display: flex;
+  flex-direction: column;
+}
+.row1{
+  display: flex;
+  flex-direction: row;
+  flex: 1;
+}
+.row2{
+  display: flex;
+  flex-direction: row;
+  flex: 1;
+}
+.c1{
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+.c2{
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+.c3{
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+.c4{
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+.c5{
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+.c6{
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+.c7{
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+.c8{
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+.img{
+  width: 70%;
+  height: 60%;
+}
